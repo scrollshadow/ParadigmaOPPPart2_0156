@@ -30,8 +30,8 @@ int main() {
 
     obyek = &a; //pointer induk
     obyek->pesan();//fungsi pesan yg bakal di jalanin
-    obyek = &b;
-    obyek->pesan();
+    obyek = &b;// sama aja
+    obyek->pesan();//sama aja
 
     // a.seseorang::pesan();
     // b.seseorang::pesan();
