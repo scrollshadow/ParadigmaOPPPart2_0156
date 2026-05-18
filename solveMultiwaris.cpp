@@ -9,7 +9,7 @@ public:
         cout << "orang dibuat" << endl;
     }
     ~orang() {
-        cout << "orang dihapus" << endl;
+        cout << "orang dihapus" << endl; // sama aja cuman langsung dihapus
     }
 };
 
