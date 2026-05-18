@@ -28,7 +28,7 @@ int main() {
     joko a;
     lia b;
 
-    obyek = &a;
+    obyek = &a; //pointer induk
     obyek->pesan();
     obyek = &b;
     obyek->pesan();
