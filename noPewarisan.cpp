@@ -12,7 +12,7 @@ private:
     int z;
 };
 
-class DerivedClass : public BaseClass {
+class DerivedClass : public BaseClass { // class anak mewarisi sifat sifat bapak
 public:
     void setY(int a) {
         y = a;
