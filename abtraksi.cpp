@@ -21,7 +21,7 @@ public:
 
 int main() {
     AbstraksiKlas ak;
-    ak.setXY("Yogyakarta", "Kampus");
+    ak.setXY("Yogyakarta", "Kampus"); //user dpanggil
     ak.display();
 
     return 0;
