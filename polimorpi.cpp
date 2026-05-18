@@ -24,7 +24,7 @@ public:
 };
 
 int main() {
-    seseorang* obyek;
+    seseorang* obyek;//pointer
     joko a;
     lia b;
 
