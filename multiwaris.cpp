@@ -10,7 +10,7 @@ public:
     }
 };
 
-class pekerja : public orang {
+class pekerja : public orang { //org dan pekerja
 public:
     pekerja(int pUmur) : orang(pUmur) {
         cout << "pekerja dibuat\n" << endl;
