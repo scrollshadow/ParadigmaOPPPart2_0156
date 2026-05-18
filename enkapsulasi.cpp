@@ -6,7 +6,7 @@ private: //dibatasi
     string saklarNo[5];
 
 public: //terbuak
-    void setSaklarNo(int i, string value) {
+    void setSaklarNo(int i, string value) { //setter untuk array pripat
         saklarNo[i] = value;
     }
     string getSaklarNo(int i) { //variabel array lampu
