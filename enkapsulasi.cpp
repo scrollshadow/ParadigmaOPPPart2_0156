@@ -9,7 +9,7 @@ public: //terbuak
     void setSaklarNo(int i, string value) { //setter untuk array pripat
         saklarNo[i] = value;
     }
-    string getSaklarNo(int i) { //variabel array lampu
+    string getSaklarNo(int i) { //variabel array lampu //getter ambil array private
         return saklarNo[i];
     }
 };
