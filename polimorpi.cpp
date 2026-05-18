@@ -29,7 +29,7 @@ int main() {
     lia b;
 
     obyek = &a; //pointer induk
-    obyek->pesan();
+    obyek->pesan();//fungsi pesan yg bakal di jalanin
     obyek = &b;
     obyek->pesan();
 
