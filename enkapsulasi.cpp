@@ -5,7 +5,7 @@ class remoteLampu {
 private: //dibatasi
     string saklarNo[5];
 
-public:
+public: //terbuak
     void setSaklarNo(int i, string value) {
         saklarNo[i] = value;
     }
