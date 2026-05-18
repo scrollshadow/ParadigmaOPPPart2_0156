@@ -2,7 +2,7 @@
 using namespace std;
 
 class remoteLampu {
-private:
+private: //dibatasi
     string saklarNo[5];
 
 public:
