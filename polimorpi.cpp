@@ -11,7 +11,7 @@ public:
 
 class joko : public seseorang {
 public:
-    void pesan() {
+    void pesan() { //wajib mendefisinikan ulang
         cout << "Pesan dari joko" << endl;
     }
 };
